@@ -1,1 +1,1 @@
-Dummy Bootstrap + JS Calculator =
+* Dummy Bootstrap + JS Calculator
